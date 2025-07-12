@@ -16,7 +16,7 @@ def main():
     texto = "123abc456def"
     print(f"Texto: {texto}")
     print(f"Padrão: \\d+")
-    print(f"Resultado: {splitter.split(texto, r'\d+')}")
+    print("Resultado:", splitter.split(texto, r"\d+"))
     print()
     
     print("Exemplo 2: Divisão por vogais repetidas")
@@ -37,7 +37,7 @@ def main():
     texto = "a1b22c333d4444e"
     print(f"Texto: {texto}")
     print(f"Padrão: \\d+")
-    print(f"Resultado: {splitter.split(texto, r'\d+')}")
+    print("Resultado:", splitter.split(texto, r"\d+"))
 
 if __name__ == "__main__":
     main() 
