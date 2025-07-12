@@ -3,8 +3,8 @@
 Trabalho da disciplina Teoria da Computação - 2025.1
 
 ## Nossa equipe
-- Daniel Ferreira do Nascimento  
-- João Paulo Calixto da Silva (representante)  
+- Daniel Ferreira do Nascimento (representante) 
+- João Paulo Calixto da Silva  
 - Francisco Reginaldo  
 - Weller Uchoa Martins  
 
